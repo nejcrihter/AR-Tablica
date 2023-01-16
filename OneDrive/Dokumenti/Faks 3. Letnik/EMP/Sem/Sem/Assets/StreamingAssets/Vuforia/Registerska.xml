@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="registerska-nemcija" size="0.200000 0.043333" />
+    <ImageTarget name="GrermanyRegister" size="0.200000 0.045547" />
+    <ImageTarget name="qr-code-romania" size="0.180000 0.180000" />
+    <ImageTarget name="qr-code-latvia" size="0.180000 0.180000" />
+    <ImageTarget name="QRRomania" size="0.080000 0.099467" />
+    <ImageTarget name="romanianReg" size="0.200000 0.045547" />
+    <ImageTarget name="Latvianlicenseplate" size="0.200000 0.045547" />
+    <ImageTarget name="registerska" size="0.240000 0.240000" />
+    <ImageTarget name="tablicaAvto" size="24.000000 5.700000" />
+  </Tracking>
+</QCARConfig>
